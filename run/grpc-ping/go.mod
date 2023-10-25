@@ -5,11 +5,11 @@ go 1.19
 require (
 	github.com/golang/protobuf v1.5.3
 	google.golang.org/api v0.123.0
-	google.golang.org/grpc v1.55.0
+	google.golang.org/grpc v1.56.3
 )
 
 require (
-	cloud.google.com/go/compute v1.19.0 // indirect
+	cloud.google.com/go/compute v1.19.1 // indirect
 	cloud.google.com/go/compute/metadata v0.2.3 // indirect
 	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e // indirect
 	github.com/google/s2a-go v0.1.3 // indirect
