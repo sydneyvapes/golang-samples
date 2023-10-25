@@ -6,7 +6,7 @@ require (
 	cloud.google.com/go/firestore v1.10.0
 	github.com/GoogleCloudPlatform/golang-samples v0.0.0-20230524170316-441287c416a6
 	google.golang.org/api v0.123.0
-	google.golang.org/grpc v1.55.0
+	google.golang.org/grpc v1.56.3
 )
 
 require (
